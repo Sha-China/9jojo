@@ -14,5 +14,11 @@
         "dir": "Miracles",
         "git": "https://github.com/BigCoke233/miracles",
         "author": "BigCoke233"
+    },
+    {
+        "name": "OBot",
+        "dir": "OBot",
+        "git": "https://github.com/SuperOBot/resources",
+        "author": "ohmyga233"
     }
 ]
