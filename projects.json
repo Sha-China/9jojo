@@ -21,4 +21,10 @@
         "git": "https://github.com/SuperOBot/resources",
         "author": "ohmyga233"
     }
+    {
+    "name": "Huaji-CDN",
+    "dir": "huajicdn",
+    "git": "https://github.com/Sha-China/Huaji-CDN",
+    "author": "Sha-China"
+    }
 ]
